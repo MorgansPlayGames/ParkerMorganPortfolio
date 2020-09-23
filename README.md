@@ -22,3 +22,4 @@ Functional, deployed application
 Progress:
 Initial upload
 bootstrap connected
+Added navbar to all pages
