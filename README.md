@@ -20,3 +20,5 @@ Functional, deployed application
 * Must properly utilize Bootstrap components and grid system.
 
 Progress:
+Initial upload
+bootstrap connected
