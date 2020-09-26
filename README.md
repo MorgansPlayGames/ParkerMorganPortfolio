@@ -20,6 +20,9 @@ Functional, deployed application
 * Must properly utilize Bootstrap components and grid system.
 
 Progress:
-Initial upload
-bootstrap connected
-Added navbar to all pages
+* Initial upload
+* bootstrap connected
+* Added navbar to all pages
+* added basic framework
+* added colors
+* added col of 8?
