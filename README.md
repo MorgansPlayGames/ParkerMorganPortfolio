@@ -26,3 +26,7 @@ Progress:
 * added basic framework
 * added colors
 * added col of 8?
+* added voice work audio for fun
+* wrote an about me to put in
+* put pictures in to replace placeholders.
+* added a footer with link to youtube
