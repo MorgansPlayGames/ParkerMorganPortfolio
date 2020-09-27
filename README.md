@@ -8,6 +8,8 @@ Using Bootstrap, develop your portfolio site with the following items:
    * A responsive layout
    * Responsive images
 
+   Site: https://morgansplaygames.github.io/ParkerMorganPortfolio/index.html
+
 Requirements:
 Functional, deployed application
 * GitHub repository with README describing the project
